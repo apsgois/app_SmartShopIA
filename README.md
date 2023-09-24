@@ -74,7 +74,15 @@ pegada de carbono.</p>
 <p>Isso iniciará o aplicativo em seu dispositivo ou emulador.</p>
 
 
-<h2>Login</h2>
-![login]([https://github.com/apsgois/app_SmartShopIA/assets/68386929/bfd9e28c-492a-40e1-abf3-4c88d0085767](https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png)https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png)
+<h2>APP</h2>
+<p float="left">
+
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png" width="200" />
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/cidade.png" width="200" /> 
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/lista.png" width="200" /> 
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/filtros.png" width="200" /> 
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/progresso.png" width="200" /> 
+ <img src="https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/ofertas.png" width="200" /> 
+</p>
 
 
