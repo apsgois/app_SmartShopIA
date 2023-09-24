@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Arroz Branco Meu Biju - 1kg",
+    "description": "Produto tradicional e saboroso. Não precisa lavar, nem escolher.",
+    "image": "https://m.media-amazon.com/images/I/71bBKBsTHSL._AC_SL1500_.jpg",
+    "price": 6.99
+  },
+    {
+      "name": "Arroz 100% Grãos Nobres - 2kg",
+      "description": "Arroz; arroz 2kg; arroz branco; arroz nobre; Tio Joao; Tio João; Almoço; Jantar; Refeição; arroz tio joao",
+      "image": "https://m.media-amazon.com/images/I/61OYxSAwPIL._AC_SL1000_.jpg",
+      "price": 14.99
+    },
+    {
+      "name": "Arroz Tio João Parboilizado - 5kg",
+      "description": "Arroz; arroz branco; parboilizado; arroz parboilizado; Tio Joao; Tio João; Almoço; Jantar; Refeição; arroz tio joao",
+      "image": "https://m.media-amazon.com/images/I/61nQRxUtDqL._AC_SL1000_.jpg",
+      "price": 39.99
+    },
+    {
+      "name": "Feijão Carioca",
+      "description": "Rico em proteína vegetal",
+      "image": "https://m.media-amazon.com/images/I/61vDdGXuRwL._AC_SL1200_.jpg",
+      "price": 14.35
+    },
+    {
+      "name": "Feijão Moyashi Viva Salute Embalado a Vácuo - 1Kg",
+      "description": "",
+      "image": "https://m.media-amazon.com/images/I/61J7FCBDnGL._AC_SL1000_.jpg",
+      "price": 26.00
+    },
+      {
+        "name": "Feijão Carioca Orgânico Coopernatural 1kg",
+        "description": "Feijão carioca orgânico sem agrotóxicos ou aditivos químicos.",
+        "image": "https://m.media-amazon.com/images/I/61uOLSuKTJL._AC_SL1000_.jpg",
+        "price": 37.99
+      },
+      {
+        "name": "Leite Condensado Semidesnatado Piracanjuba , 395g",
+        "description": "O Produto Entrega Qualidade, Sabor E O Ponto Ideal Para Qualquer Preparação",
+        "image": "https://m.media-amazon.com/images/I/51Oujf6RDtL._AC_SL1000_.jpg",
+        "price": 7.99
+      },
+      {
+        "name": "Bebida à Base de Castanha-De-Caju Orgânica Leite Possible Caixa 1L",
+        "description": "O Produto Entrega Qualidade, Sabor E O Ponto Ideal Para Qualquer Preparação",
+        "image": "https://m.media-amazon.com/images/I/51l8YOpDgUL._AC_SL1000_.jpg",
+        "price": 15.29
+      },
+      {
+        "name": "Leite Desnatado + Cálcio Piracanjuba 1L, contagem de unidades: 1.0 Litro, no itens: 1",
+        "description": "Os Leites Especiais Piracanjuba além de saborosos, oferecem inúmeros benefícios para o seu dia a di",
+        "image": "https://m.media-amazon.com/images/I/61C9REpM1pL._AC_SL1200_.jpg",
+        "price": 36.99
+      },
+      {
+        "name": "Macarrão Fettuccine com Ovos Barilla 500g",
+        "description": "Trigo grano tenro e ovos de galinhas livres de gaiolas",
+        "image": "https://m.media-amazon.com/images/I/71vOl-nOT2L._AC_SL1500_.jpg",
+        "price": 5.12
+      },
+      {
+        "name": "Macarrão Massa Tortiglioni Tortilhone com Ovos Germani 500G",
+        "description": "O Tortilhone com Ovos Germani tem forma de canudo retorcido. É perfeito para acomodar molhos cremosos ou fluídos, que entram pelo seu orifício e perpassam a massa por meio de suas ranhuras, ressaltando o sabor dos condimentos.",
+        "image": "https://m.media-amazon.com/images/I/613LPcRvHfL._AC_SL1200_.jpg",
+        "price": 10.40
+      },
+     
+      {
+        "name": "Batata Palha 500g Marpa Sequinha e Crocante",
+        "description": "Snack, acompanhamento",
+        "image": "https://m.media-amazon.com/images/I/61xIe9-jmVL._AC_SL1200_.jpg",
+        "price": 21.90
+      },
+      {
+        "name": "Sabonete em Barra Protex PRO Hidratação 80g",
+        "description": "Protex PRO Hidratação ajuda a pele a recuperar a sua hidratação natural, mantendo-a sempre bem cuidada.",
+        "image": "https://m.media-amazon.com/images/I/710UcXBD6tL._AC_SL1500_.jpg",
+        "price": 3.90
+      }
+  ]
+  

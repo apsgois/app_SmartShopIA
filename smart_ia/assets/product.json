@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Arroz Pop Branco Tipo 1 Camil 1kg",
+      "description": "Sempre soltinho, branquinho e saboroso, não precisa escolher nem lavar.",
+      "image": "https://propao.agilecdn.com.br/2504_1.jpg",
+      "price": 19.99
+    },
+    {
+      "name": "Feijão Carioca",
+      "description": " - Rico em proteína vegetal, Fonte de ferro, Textura macia e saborosa e O produto não contém glúten",
+      "image": "https://m.media-amazon.com/images/I/61LoiJgnlbL.jpg",
+      "price": 29.99
+    },
+    {
+      "name": "Azeite Gallo Extra Virgem 500ml - Classico",
+      "description": "Ideal para cozinhar e temperar todo o tipo de pratos, para quem escolhe dar uma intensidade de sabor moderada; experimente este azeite na preparação de sopas, grelhados ou em pratos tradicionais",
+      "image": "https://m.media-amazon.com/images/I/51Qx+FviOxL._AC_SL1200_.jpg",
+      "price": 39.99
+    },
+    {
+      "name": "Castanha de Caju W1 Natural Castanha do Brasil 1Kg",
+      "description": "Regula os níveis de colesterol - possui a gordura boa Diminui o risco de doenças cardiácas Combate os radicais livres Rica em Magnésio - mineral essencial para manter o corpo em atividade Rica em Zinco - fortalece as defesas do organismo",
+      "image": "https://m.media-amazon.com/images/I/71sq8elLf7L._AC_SL1500_.jpg",
+      "price": 49.99
+    }
+  ]

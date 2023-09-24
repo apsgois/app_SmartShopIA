@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548771799620",
+    "project_id": "smartshopia",
+    "storage_bucket": "smartshopia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548771799620:android:d1fc18729804827bd45211",
+        "android_client_info": {
+          "package_name": "br.com.apsgois.smart_ia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548771799620-nrpabjrqset2cqqbl0m92c7ulkd09q1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77XuvAmfn6z2QOhpBbJWObVTMZEFuTp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548771799620-nrpabjrqset2cqqbl0m92c7ulkd09q1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
