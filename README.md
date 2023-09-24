@@ -75,5 +75,6 @@ pegada de carbono.</p>
 
 
 <h2>Login</h2>
-![Logo do Meu Aplicativo](https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png)
+![login]([https://github.com/apsgois/app_SmartShopIA/assets/68386929/bfd9e28c-492a-40e1-abf3-4c88d0085767](https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png)https://github.com/apsgois/app_SmartShopIA/blob/main/Imagens/login.png)
+
 
